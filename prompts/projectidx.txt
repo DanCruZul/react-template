@@ -26,5 +26,7 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "tailwindCSS.experimental.classRegex": [
         
-    ]
+    ],
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
